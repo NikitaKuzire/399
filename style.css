@@ -45,3 +45,13 @@ header h2 {
   
   color: blanchedalmond;
 }
+.w {
+   background-image: linear-gradient(to top,#52EDDD	,white	,#52EDDD	); 	;
+    border: 3px inset black;
+
+}
+
+.w h2 {
+
+   background-color: white; 
+}
